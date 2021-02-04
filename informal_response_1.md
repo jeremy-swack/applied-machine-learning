@@ -8,6 +8,6 @@ According to Laurence Maroney, the main difference between traditional programmi
 
 The first time I created the neural network and predicted what the value 7 would produce, I got 22.000916. However, when I created the model again with the same parameters, I got 21.998657. Although these values are extremely close, they are not the same because the loss value of both neural networks was not zero. Because of this, there is slight variation in the two outputs. It is possible that raising the number of epochs could reduce the difference, but the difference between the two values will likely never be zero.
 
-## Neural Network with Housing Prices from Matthews County, VA
+## Neural Network with Housing Prices from Mathews County, VA
 
 After creating the neural network, I used it to predict values for the different 2, 3, 4, and 5 bedroom houses I had and named the corresponding array "yhat". Then, I took the difference between the actual and predicted values to find if the model thought the price for each house was either too low or too high. According to the model, the best deal was on the house on Holly Point Rd with a difference of about 134k in favor of the buyer, and the worst deal was on the house on Church St with a difference of about 98k in favor of the seller. 
