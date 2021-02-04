@@ -1,6 +1,6 @@
 # Informal Response 1 (2/5/2021)
 
-[Back to Home Page]!(https://jeremy-swack.github.io/applied-machine-learning/)
+[Back to Home Page](https://jeremy-swack.github.io/applied-machine-learning/)
 
 ## Difference between Traditional Programming and Machine Learning
 
