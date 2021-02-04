@@ -1,5 +1,7 @@
 # Informal Response 1 (2/5/2021)
 
+[Back to Home Page]!(https://jeremy-swack.github.io/applied-machine-learning/)
+
 ## Difference between Traditional Programming and Machine Learning
 
 According to Laurence Maroney, the main difference between traditional programming and machine learning is that in traditional programming, the programmer creates the rules that result in answers, while in machine learning, a model of some kind is created that creates rules for existing answers and data. A machine learning model, like a neural network, takes in data and infers a relationship based on how the data is labeled. 
