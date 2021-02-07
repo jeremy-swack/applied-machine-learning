@@ -15,3 +15,23 @@ The function used in the last layer, “softmax,” is used to assign probabilit
 ## Q: How do the optimizer and loss functions operate to produce model parameters (estimates) within the model.compile() function?
 
 The optimizer and loss function of a neural network are used to create the lowest possible error and variance in the neural network. For example, a very common optimizer, gradient descent, uses the first derivative of the loss function to calculate the weights of a neural network. Different optimizers and loss functions are more appropriate depending on the data set being used. For example, using gradient descent on an extremely large dataset would not be a good idea because it would likely take an extremely long time to find the minimum of the derivative. In Maroney’s neural network, he uses a categorical loss function because all of the images are being sorted into individual types of clothing.
+
+Q: What is the shape of the images training set (how many and the dimension of each)?
+
+There are 6000 training images and all of the images are 28x28 pixels.
+
+Q: What is the length of the labels training set?
+
+There are also 6000 labels; there is one label for each image.
+
+Q: What is the shape of the images test set?
+
+There are 1000 test images and labels. This means there is approximately a 85/15 train-test split.
+
+Q: What index of the array has the highest probability of being a number?
+
+For my model, I found that index 235 had the highest probability of being a number. Here is what the image looks like:
+
+![highest_probability(informal_response_highest_probability.png)
+
+It is clear this is supposed to be the number nine.
