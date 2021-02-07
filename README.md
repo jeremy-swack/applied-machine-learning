@@ -12,4 +12,6 @@ Hello! My name is Jeremy Swack and I am from Fairfax, Virginia. I'm interested i
 
 [Informal Response 1 2/5/2021](informal_response_1.md)
 
+[Informal Response 2 2/8/2021](informal_response_2.md)
+
 ## Projects
