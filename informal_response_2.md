@@ -32,6 +32,6 @@ Q: What index of the array has the highest probability of being a number?
 
 For my model, I found that index 235 had the highest probability of being a number. Here is what the image looks like:
 
-![highest_probability(informal_response_highest_probability.png)
+![highest_probability](informal_response_highest_probability.png)
 
 It is clear this is supposed to be the number nine.
