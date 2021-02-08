@@ -18,15 +18,15 @@ The optimizer and loss function of a neural network are used to create the lowes
 
 ## Q: What is the shape of the images training set (how many and the dimension of each)?
 
-There are 6000 training images and all of the images are 28x28 pixels.
+There are 60000 training images and all of the images are 28x28 pixels.
 
 ## Q: What is the length of the labels training set?
 
-There are also 6000 labels; there is one label for each image.
+There are also 60000 labels; there is one label for each image.
 
 ## Q: What is the shape of the images test set?
 
-There are 1000 test images and labels. This means there is approximately a 85/15 train-test split.
+There are 10000 test images and labels. This means there is approximately a 85/15 train-test split.
 
 ## Q: What index of the array has the highest probability of being a specific number?
 
