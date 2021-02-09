@@ -42,6 +42,8 @@ The following probability histogram shows the probability the image found in ind
 
 ![lecture_2_histogram](lecture_2_histogram.png)
 
+Below is the array of probabilities found at index 235 of the predictions array (multiplied by 100). It is clear this lines up with the data shown in the histogram.
+
 ```
 array([4.4314325e-05, 2.1857407e-09, 9.8507553e-05, 5.6735724e-05,
        5.6839925e-03, 4.8086280e-05, 3.0084720e-08, 9.7184725e-02,
