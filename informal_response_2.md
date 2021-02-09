@@ -38,4 +38,12 @@ It is clear this is supposed to be the number nine.
 
 ## Probability Histogram
 
+The following probability histogram shows the probability the image found in index 235 of the test_images array is each number. The image with the highest probability of being a specific number was selected, so this particular observation has an extremely high probability of being the number nine.
+
 ![lecture_2_histogram](lecture_2_histogram.png)
+
+```
+array([4.4314325e-05, 2.1857407e-09, 9.8507553e-05, 5.6735724e-05,
+       5.6839925e-03, 4.8086280e-05, 3.0084720e-08, 9.7184725e-02,
+       8.9260930e-04, 9.9895988e+01], dtype=float32)
+```
