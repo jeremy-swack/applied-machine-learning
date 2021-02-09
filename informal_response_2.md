@@ -35,3 +35,7 @@ For my model, I found that index 235 had the highest probability of being a spec
 ![highest_probability](informal_response_highest_probability.png)
 
 It is clear this is supposed to be the number nine.
+
+## Probability Histogram
+
+![lecture_2_histogram](lecture_2_histogram.png)
