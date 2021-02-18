@@ -2,6 +2,10 @@
 
 [Back to Home Page](https://jeremy-swack.github.io/applied-machine-learning/)
 
+## The Original Image
+
+![image_org](inf_resp_3_orig.png)
+
 ## Three Chosen Filters:
 
 ```
