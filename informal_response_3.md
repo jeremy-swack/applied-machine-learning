@@ -5,11 +5,11 @@
 ## Three Chosen Filters:
 
 ```
-filter = [ [1, 1, 0], [1, -2, 1], [2, 1, 0]]
+filter = [ [1, 0, 0], [0, -1, 0], [0, 0, 1]]
 ```
 
 This first filter results in this image:
 
 ![image_1](inf_resp_3_img_1.png)
 
-This filter appears to highlight the light in the image while keeping the shadows/darker parts of the image.
+This filter appears to make the image slightly more blurry.
