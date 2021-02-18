@@ -22,4 +22,4 @@ This filter appears to make the image slightly more blurry.
 filter = [ [0, -1, 0], [-1, 4, -1], [0, -1, 0]]
 ```
 
-![image_2](inf_resp_img_2.png)
+![image_2](inf_resp_3_img_2.png)
