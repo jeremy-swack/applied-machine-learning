@@ -23,3 +23,5 @@ filter = [ [0, -1, 0], [-1, 4, -1], [0, -1, 0]]
 ```
 
 ![image_2](inf_resp_3_img_2.png)
+
+This filter appears to accentuate the diagonal lines found in the top left of the picture.
