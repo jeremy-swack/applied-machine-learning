@@ -14,6 +14,6 @@ Hello! My name is Jeremy Swack and I am from Fairfax, Virginia. I'm a freshman a
 
 [Informal Response 2 2/8/2021](informal_response_2.md)
 
-[Informal Response 3 2/19/2021](informal_response.md)
+[Informal Response 3 2/19/2021](informal_response_3.md)
 
 ## Projects
