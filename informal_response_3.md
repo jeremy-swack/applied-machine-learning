@@ -45,3 +45,5 @@ A convolving filter allows for detection of indiviual features or characteristic
 ## Pooling
 
 ![img_pool](inf_resp_3_img_pool.png)
+
+Pooling seems to have made the image even brighter; it is now ever harder to see the outline of the different parts of the steps. The pooling filter given in the code picks the largest value of the 2x2 and then puts those largest values into a new 2x2 set of pixels. Because of this, the image is also 1/4 as big. This would be useful for compressing images if storage was an issue.
