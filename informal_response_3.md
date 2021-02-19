@@ -25,3 +25,11 @@ filter = [ [0, -1, 0], [-1, 4, -1], [0, -1, 0]]
 ![image_2](inf_resp_3_img_2.png)
 
 This filter appears to accentuate the diagonal lines found in the top left of the picture.
+
+```
+filter = [ [0, -2, 0], [1, 0, 1], [1, 0, 2]]
+```
+
+![image_3](inf_resp_3_img_3.png)
+
+This final filter appears to make the entire image lighter.
