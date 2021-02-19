@@ -43,3 +43,5 @@ Using filters and convolutions adds certain values to each value of the image ar
 A convolving filter allows for detection of indiviual features or characteristics of an image. Like in our example, some of the filters picked up on there being vertical, horizontal, or diagonal lines. This idea could be applied to the fashion MNST data set to tell that a shoe has a sole for example.
 
 ## Pooling
+
+![img_pool](inf_resp_3_img_pool.png)
