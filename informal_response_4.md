@@ -4,6 +4,10 @@
 
 # Convolution Exercise 
 
+!(pic_1)[matrix_convolution_exercise_data_310.png]
+
+!(pic_2)[data_310_convolved_matrix.jpg]
+
 ## What is the purpose of using a 3x3 filter to convolve across a 2D image matrix?
 
 Putting a 3x3 filter on an image can highlight certain features in the image itself. For example, in our previous example with the outdoor staircase, different filters were able to highlight different kinds of lines found in the image.
