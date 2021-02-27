@@ -4,9 +4,9 @@
 
 # Convolution Exercise 
 
-!(pic_1)[matrix_convolution_exercise_data_310.png]
+![pic_1](matrix_convolution_exercise_data_310.png)
 
-!(pic_2)[data_310_convolved_matrix.jpg]
+![pic_2](data_310_convolved_matrix.jpg)
 
 ## What is the purpose of using a 3x3 filter to convolve across a 2D image matrix?
 
