@@ -20,3 +20,16 @@ Multiple filters could transform the image in a different way that one filter co
 
 For the mnist dataset, we used 3 different filters, but the original image was reset for each filter. Each filter was a 3x3 matrix, so in total, 9 different adjustments to the original image had to be made.
 
+# Zillow Prediction Exercise
+
+## The 10 biggest over-predictions
+
+MSE: 1.13288279739128e+22
+
+## The 10 biggest under-predictions
+
+MSE: 2.9951518470582574e+18
+
+## The 10 best predictions
+
+MSE: 5.429144865638734e+17
