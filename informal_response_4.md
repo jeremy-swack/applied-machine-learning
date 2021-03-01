@@ -33,3 +33,11 @@ MSE: 2.9951518470582574e+18
 ## The 10 best predictions
 
 MSE: 5.429144865638734e+17
+
+## In which percentile do the 10 most accurate predictions reside? Did your model trend towards over or under predicting home values?
+
+The price percentiles of the 10 best predictions appear to be from around the 5th percentile to almost the 95th percentile. This wide range is caused by one very expensive house receiving an accurate prediction. The model trended towards overprediction as a majority of the prediction values are positive.
+
+## Which feature appears to be the most significant predictor in the above cases?
+
+The most significant predictor appears to be bathrooms. Loosely, there is a correlation between the number of bathrooms and the quality of the prediction. Performing a tSNE or PCA analysis would allow us to find this answer.
