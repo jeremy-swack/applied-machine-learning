@@ -16,4 +16,12 @@ From this plot, it is clear that this simple model was not very effective at pre
 
 The plot above shows the accuracy of the model. Each point on the plot represents a recorded asking price on Zillow and the predicted price that came from the model. The 45 degree line on the plot shows a reference for what a perfect model would look like. In this case, it is clear the model did not do a good job of predicting asking prices, particularly for houses with relatively higher asking prices. There is a clear majority of points above the 45 degree line, which means the model generally overestimated the asking price of homes. 
 
-Lastly, this final plot shows the MSEs (Mean Squared Error) for the model using 3 different scalers. 
+This last plot shows the distribution of the absolute values of the differences between the actual list price. 
+
+![pic_3](abs_diff_distribution.png)
+
+This plot shows that the absolute value of almost every prediction fell within a million dollars of the Zillow asking price. However, the plot also shows there were more than a few predictions that were wildly inaccurate compared to the actual Zillow asking price. 
+
+This final table shows the top 20 predictions according to the lowest absolute value of the difference between the Zillow asking price and the model prediction.
+
+![pic_4](top_20_zillow.png)
