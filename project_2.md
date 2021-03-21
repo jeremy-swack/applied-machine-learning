@@ -52,6 +52,14 @@ After adding the derived feature columns:
 | loss | 0.48246303 |
 | global_step | 15380 |
 
+Predicted probabilities plot for logistic regression:
+
+![img_5](log_prob.png)
+
+ROC Curve for the logistic regression:
+
+![img_6](log_roc.png)
+
 ## Python Script: Gradient Boosting Model using Decision Trees
 
 ## Analyzing all the Models
