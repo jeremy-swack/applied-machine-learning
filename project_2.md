@@ -26,7 +26,11 @@ Below is a plot of the randomly selected predictors as well as the minimal node 
 
 ![img_3](rf_res.png)
 
+After selecting the best possible model, I produced the ROC plots for the model.
 
+![img_4](rf_auc.png)
+
+These ROC plots are very similar to the logsitic regression ROC plots. Once again, the model is able to differentiate wealth levels 1 and 5 the best. However, it seems the random forest model is slightly better at differentiating between wealth level 2-4, but this difference is very slight at best.
 
 ## Python Script: Logistic Regression
 
