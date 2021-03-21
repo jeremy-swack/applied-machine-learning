@@ -60,6 +60,8 @@ ROC Curve for the logistic regression:
 
 ![img_6](log_roc.png)
 
+This ROC curve looks to be even farther away from 45 degrees than the previous ROC curves produced in the R scripts.
+
 ## Python Script: Gradient Boosting Model using Decision Trees
 
 ## Analyzing all the Models
