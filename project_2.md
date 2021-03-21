@@ -76,4 +76,14 @@ After training the gradient boosting model, I got the following characteristics:
 | label/mean | 0.226530 |
 | loss | 0.500747 |
 
+Predicted probabilities plot for the boosted model:
+
+![img_7](boosted_prob.png)
+
+ROC Curve for the boosted model:
+
+![img_8](boosted_roc.png)
+
+This ROC curve appears to be closer to 45 degrees when compared to the others. However, the model still seems to be fairly comparable to the others
+
 ## Analyzing all the Models
