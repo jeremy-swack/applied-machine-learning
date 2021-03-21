@@ -87,3 +87,5 @@ ROC Curve for the boosted model:
 This ROC curve appears to be closer to 45 degrees when compared to the others. However, the model still seems to be fairly comparable to the others
 
 ## Analyzing all the Models
+
+Based on accuracy score, it appears the final boosted trees model in Python performed the best. However, all of the models perfromed extremely similarly. This is likely a result of only having a few variables to predict wealth. With more variables, particularly geospatial variables like from the GPS dataset we also pulled from DHS, it would probably be possible to create a model that performed better than the ones we created. It is also interesting to note in the R scripts how the ROC plots for the two models showed it was easier to differentiate between wealth levels 1 and 5 but not 2-4. This is likely because the poorest and wealthiest communites have more similar characteristics in their respective groups that allowed the models to pick up on the differences between them. Adding a geospatial component to the models would likely give a better chance of finding discrete differences between the middle wealth value groups.
