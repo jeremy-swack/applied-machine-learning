@@ -64,4 +64,16 @@ This ROC curve looks to be even farther away from 45 degrees than the previous R
 
 ## Python Script: Gradient Boosting Model using Decision Trees
 
+After training the gradient boosting model, I got the following characteristics:
+
+| Name of Output | Value |
+| --- | ----------- |
+| Accuracy | 0.778652 |
+| accuracy_baseline  | 0.773470 |
+| auc | 0.667933 |
+| auc_precision_recall  | 0.370999 |
+| average_loss  | 0.500747 |
+| label/mean | 0.226530 |
+| loss | 0.500747 |
+
 ## Analyzing all the Models
