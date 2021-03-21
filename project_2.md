@@ -22,6 +22,12 @@ The model is clearly better at predicting levels 1 and 5, but there is still cle
 
 ## R Script: Random Forest Ensemble
 
+Below is a plot of the randomly selected predictors as well as the minimal node size.
+
+![img_3](rf_res.png)
+
+
+
 ## Python Script: Logistic Regression
 
 ## Python Script: Gradient Boosting Model using Decision Trees
