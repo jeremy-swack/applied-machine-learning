@@ -34,6 +34,16 @@ These ROC plots are very similar to the logsitic regression ROC plots. Once agai
 
 ## Python Script: Logistic Regression
 
+After training the logistic model, I got the following characteristics:
+
+| Name of Output | Value |
+| --- | ----------- |
+| Accuracy | 0.7856011 |
+| average_loss | 0.48615587 |
+| loss | 0.48615107 |
+| global_step | 15380 |
+
+
 ## Python Script: Gradient Boosting Model using Decision Trees
 
 ## Analyzing all the Models
