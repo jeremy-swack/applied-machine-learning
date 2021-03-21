@@ -43,6 +43,14 @@ After training the logistic model, I got the following characteristics:
 | loss | 0.48615107 |
 | global_step | 15380 |
 
+After adding the derived feature columns:
+
+| Name of Output | Value |
+| --- | ----------- |
+| Accuracy | 0.78365034 |
+| average_loss | 0.48245367 |
+| loss | 0.48246303 |
+| global_step | 15380 |
 
 ## Python Script: Gradient Boosting Model using Decision Trees
 
