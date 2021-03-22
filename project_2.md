@@ -12,7 +12,7 @@ As shown by the following plot, the model with the highest AUC is the third poin
 
 ![img_1](lr_plot.png)
 
-I chose the penalty associated with the 3rd point because the 3rd point had the highest AUC. Because it has the largest AUC, it means that model was picking up the most correlation that could be found with th five given variables.
+I chose the penalty associated with the 11th point because the 11th point had a very high AUC while also having the largest penalty I could get without a substantial tradeoff in model performance. However, it is likely any of the first 11 points would result in a very comparable model.
 
 Finally, below are the produced ROC plots for all 5 levels of wealth.
 
