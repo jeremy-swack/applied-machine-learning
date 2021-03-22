@@ -8,7 +8,7 @@ For my project, I chose Egypt. The data is a Standard DHS from 2014. The resulti
 
 ## R Script: Logistic Regression
 
-As shown by the following plot, the model with the highest AUC is the third point with an area of .6305613.
+As shown by the following plot, the model with the highest AUC is the third point with an area of .6305613. However, I chose point 11 because it maintains nearly the same AUC with a larger penalty value. The AUC of the 11th point is 0.6209219.
 
 ![img_1](lr_plot.png)
 
