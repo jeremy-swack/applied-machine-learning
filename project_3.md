@@ -8,4 +8,3 @@
 
 ## Write a report assessing the two approaches and which of the two models was more accurate
 
-## Be sure to account for spatial variation throughout your selected location and provide substantive explanations for why those variations occurred
