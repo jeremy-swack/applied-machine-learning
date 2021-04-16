@@ -26,4 +26,4 @@ Hello! My name is Jeremy Swack and I am from Fairfax, Virginia. I'm a freshman a
 
 [Project 2 3/24/2021](project_2.md)
 
-[Project 2 4/16/2021](project_3.md)
+[Project 3 4/16/2021](project_3.md)
