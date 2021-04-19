@@ -64,3 +64,7 @@ Difference Sums Plot:
 
 ## Write a report assessing the two approaches and which of the two models was more accurate
 
+Going strictly off the difference between the actual population of Bhutan and the predicted value, it appears the random forest model was slightly better than the linear regression, with the difference of the random forest model being about 500, and the difference of the linear model being about 600. However, both models predicted extremely close to the actual population. Both the linear regression and random forest plots underpredicted and overpredicted in slightly different areas. However, it seems the most populated parts of Bhutan are in the southwest region of the country. 
+
+It is also interesting to note in the random forest model how night time lights is far and away the best variable at predicting population. However, this is not that surprisng considering that night time lights are a very good proxy for developed areas. Developed areas tend to have more people in them, hence why it is a very good variable for predicting population.
+
