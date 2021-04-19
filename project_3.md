@@ -36,7 +36,31 @@ Difference Sums Plot:
 
 ### Random Forest
 
-## Validate the two models using different methods presented in this class
+Variable Importance in Random Forest Model:
+
+![img_7](btn_rf_var_importance.png)
+
+Population Sums Plot:
+
+![img_8](btn_rf_pop_sums.png)
+
+Total Population Prediction:
+
+![img_9](btn_rf_sums.png)
+
+#### Validation:
+
+Difference Sums Plot:
+
+![img_10](btn_rf_pop_sums.png)
+
+3D Validation Plot:
+
+![img_11](btn_rf_3d_diff_sums.png)
+
+3D Validation RMSE Plot:
+
+![img_12](btn_rf_3d_rmse.png)
 
 ## Write a report assessing the two approaches and which of the two models was more accurate
 
