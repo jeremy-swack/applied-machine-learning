@@ -10,4 +10,4 @@ Although TikTok has not released the specifics of their algorithm, many have the
 
 ## Video Pressentation
 
-![vid_1](zoom_4.mp4)
+[Link to Video](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=6fe523b6-e534-4f04-a19a-ad2c015b61fd)
