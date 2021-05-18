@@ -10,3 +10,4 @@ Although TikTok has not released the specifics of their algorithm, many have the
 
 ## Video Pressentation
 
+![vid_1](zoom_4.mp4)
